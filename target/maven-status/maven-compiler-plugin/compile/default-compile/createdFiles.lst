@@ -1,0 +1,9 @@
+org\example\caches\MyCacheStore1.class
+org\example\exceptions\GeoLocationNotFoundException.class
+org\example\controllers\GeoLocationController.class
+org\example\services\GeoLocationService.class
+org\example\dao\GeoLocationDAO.class
+org\example\trueConfiguration.class
+org\example\trueApplication$1.class
+org\example\entity\GeoLocation.class
+org\example\trueApplication.class
